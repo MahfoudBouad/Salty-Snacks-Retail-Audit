@@ -8,7 +8,7 @@ The Salty Snacks Variety Pack category is a multi-billion dollar segment current
 
 ## Key Performance Indicators (KPIs)
 * **Total Category Sales**: Represents the $3.1 Billion total market for Salty Snacks Variety Packs.
-* **Focus Product Sales**: Represents the $64.9 Million aggregate sales of Frito-Lay, Private Label, and Herr’s brands(about 2% of total market).
+* **Focus Product Sales**: Represents the $64.9 Million aggregate sales of Frito-Lay, Private Label, and Herr’s brands (about 2% of total market).
 * **Velocity ($/TDP)**: A measure of shelf-space efficiency, interpreted as the revenue generated per point of distribution.
 * **Total Distribution Points (TDP)**: A metric reflecting the total shelf presence and availability across the retail landscape.
 
@@ -17,15 +17,22 @@ The Salty Snacks Variety Pack category is a multi-billion dollar segment current
 * **Seasonal Elasticity**: The analysis identified a high degree of seasonal variance, specifically a **+296.2%** growth peak during the week of June 14, 2025.
 * **Shelf Efficiency Trough**: Velocity analysis revealed a **44% decline** in shelf productivity between the July peak ($17,485) and the January trough ($9,810).
 
-## Visual Analysis
+## Platform Validation (NIQ Byzzer)
+Data was extracted and initially validated using the NIQ Byzzer retail analytics platform. The dashboard snapshot below confirms the macro-level divergence between the category decline and the focus portfolio growth.
+
+![NIQ Byzzer Dashboard](byzzer_dashboard.png)
+
+## Deep-Dive Visual Analysis (Excel)
 
 ### 1. Weekly Sales Growth (%)
 This time-series visualization maps the year-over-year growth percentage, highlighting extreme seasonal spikes and the subsequent Q1 normalization.
-> **[INSERT_SCREENSHOT_SALES_GROWTH_GRAPH]**
+
+![Weekly Sales Growth](excel_sales_growth.png)
 
 ### 2. Shelf Productivity (Velocity)
 This chart tracks the revenue generated per point of distribution. It illustrates that while distribution levels remained stable, the "return on shelf space" fluctuated significantly by season.
-> **[INSERT_SCREENSHOT_VELOCITY_GRAPH]**
+
+![Shelf Productivity Velocity](excel_velocity.png)
 
 ## Strategic Recommendations
 * **Dynamic Shelf Allocation**: Reallocate 10-15% of variety pack shelf space during January to higher-velocity categories (e.g., wellness or "New Year" snacks) to mitigate the identified 44% decline in snack velocity.
@@ -38,4 +45,4 @@ This chart tracks the revenue generated per point of distribution. It illustrate
 * **Efficiency Modeling**: Used the Velocity ($/TDP) metric to evaluate the financial productivity of retail "real estate" (shelf space).
 
 ---
-**Technical Skills Demonstrated**: Retail Analytics | Trend Analysis | Productivity Modeling | Data Visualization
+**Technical Skills Demonstrated**: Retail Analytics | NIQ Byzzer | Trend Analysis | Productivity Modeling | Data Visualization
