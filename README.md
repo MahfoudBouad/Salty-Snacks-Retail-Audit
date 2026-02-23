@@ -22,17 +22,19 @@ Data was extracted and initially validated using the NIQ Byzzer retail analytics
 
 ![NIQ Byzzer Dashboard](byzzer_dashboard.png)
 
+![NIQ Byzzer Dashboard](byzzer_dashboard2.png)
+
 ## Deep-Dive Visual Analysis (Excel)
 
 ### 1. Weekly Sales Growth (%)
 This time-series visualization maps the year-over-year growth percentage, highlighting extreme seasonal spikes and the subsequent Q1 normalization.
 
-![Weekly Sales Growth](excel_sales_growth.png)
+![Weekly Sales Growth](VELOCITY_GRAPH_EXCEL.png)
 
 ### 2. Shelf Productivity (Velocity)
 This chart tracks the revenue generated per point of distribution. It illustrates that while distribution levels remained stable, the "return on shelf space" fluctuated significantly by season.
 
-![Shelf Productivity Velocity](excel_velocity.png)
+![Shelf Productivity Velocity](SALES_GROWTH_GRAPH_EXCEL.png)
 
 ## Strategic Recommendations
 * **Dynamic Shelf Allocation**: Reallocate 10-15% of variety pack shelf space during January to higher-velocity categories (e.g., wellness or "New Year" snacks) to mitigate the identified 44% decline in snack velocity.
